@@ -1,5 +1,5 @@
 # gnip-stream
-[![Build Status](https://secure.travis-ci.org/rweald/gnip-stream.png)](http://travis-ci.org/rweald/gnip-stream)
+[![Build Status](https://secure.travis-ci.org/eriwen/gnip-stream.png)](http://travis-ci.org/eriwen/gnip-stream)
 
 gnip-stream is a ruby library to connect and stream data from [GNIP](http://gnip.com/).
 It utilizes EventMachine and threads under the hood to provide a true streaming
@@ -7,11 +7,10 @@ experience without you having to worry about writing non blocking code.
 
 ##Installation
 
-Installing gnip-stream is easy. Simply add the following line to your
-```Gemfile```:
+Installing gnip-stream is easy. Simply run `gem install gnip-stream ` or add the following line to your `Gemfile`:
 
 ```ruby
-gem 'gnip-stream', :git => "https://github.com/rweald/gnip-stream"
+gem 'gnip-stream', :git => "https://github.com/eriwen/gnip-stream"
 ```
 
 ##Simple Usage
