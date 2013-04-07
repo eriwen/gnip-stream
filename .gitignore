@@ -1,8 +1,8 @@
 *.gem
 .bundle
+.idea
 Gemfile.lock
 pkg/*
-tags
-.idea
 .rbx
+coverage
 
