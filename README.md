@@ -30,7 +30,16 @@ facebook_stream.consume do |message|
 end
 ```
 
+## Compatibility
+This gem is tested to be compatible with:
+
+ * MRI 1.8.7, 1.9.x, 2.0.0
+ * JRuby 1.7.0
+ * Rubinius 2.0.0dev
+
 ## Contributing
+[![Build Status](https://secure.travis-ci.org/eriwen/gnip-stream.png)](http://travis-ci.org/eriwen/gnip-stream) [![Code Climate](https://codeclimate.com/github/eriwen/gnip-stream.png)](https://codeclimate.com/github/eriwen/gnip-stream) [![Coverage Status](https://coveralls.io/repos/eriwen/gnip-stream/badge.png?branch=master)](https://coveralls.io/r/eriwen/gnip-stream)
+
 When submitting pull requests, please do the following to make it easier to incorporate your changes:
 
 * Include unit and/or functional specs that validate changes you're making.
