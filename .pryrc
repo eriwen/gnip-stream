@@ -1,2 +1,2 @@
-$: << "/Users/Ryan/code/sharethrough/gnip-stream/lib/"
+$: << "/Users/eric/src/gnip-stream/lib/"
 require 'gnip-stream'

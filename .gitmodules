@@ -1,3 +1,0 @@
-[submodule "vendor/em-http-request"]
-	path = vendor/em-http-request
-	url = git://github.com/eriwen/em-http-request.git
