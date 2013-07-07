@@ -37,5 +37,5 @@ Gem::Specification.new do |s|
     s.add_development_dependency 'rb-notifu'
   end
 
-  s.add_dependency "em-http-request", ">= 1.0.3"
+  s.add_dependency 'em-http-request', '~> 1.1.0'
 end
